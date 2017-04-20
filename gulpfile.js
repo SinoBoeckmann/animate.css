@@ -22,7 +22,7 @@ var activatedAnimations = activateAnimations();
 var opts = {
   destPath: './dist/',
   concatName: 'animate.css',
-
+ 
   autoprefixer: {
     browsers: ['last 2 versions'],
     cascade: false
