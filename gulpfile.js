@@ -20,7 +20,7 @@ var activatedAnimations = activateAnimations();
 
 // Task options
 var opts = {
-  destPath: './dsit/',
+  destPath: './dist/',
   concatName: 'animate.css',
 
   autoprefixer: {
